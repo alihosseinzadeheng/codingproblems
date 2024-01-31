@@ -96,7 +96,7 @@ public class Schedular {
 
     private void listReader() {
         try {
-            var sc = new Scanner(new File("/Users/alihosseinzadeh/Jibit/tester/src/main/resources/kesha3.csv"));
+            var sc = new Scanner(new File("/Users/.../kesha3.csv"));
             sc.useDelimiter("\n");
             while (sc.hasNext()) {
                 try {
