@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ir.jibit</groupId>
-    <artifactId>tester</artifactId>
-    <version>1</version>
-    <name>tester</name>
-    <description>Api tester</description>
+    <artifactId>codingproblems</artifactId>
+    <version>1.0.0</version>
+    <name>codingproblems</name>
+    <description>Coding problems</description>
     <properties>
         <java.version>21</java.version>
     </properties>
