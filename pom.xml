@@ -8,7 +8,7 @@
         <version>2.5.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ir.jibit</groupId>
+    <groupId>ir.khodam</groupId>
     <artifactId>codingproblems</artifactId>
     <version>1.0.0</version>
     <name>codingproblems</name>
